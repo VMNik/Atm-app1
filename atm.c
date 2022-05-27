@@ -1,5 +1,5 @@
 #include <stdio.h>
-unsigned long amount = 1000, deposit, withdraw;
+unsigned long amount = 1000, deposit, withdraw,i;
 int choice, pin, k;
 char transaction = 'y';
 void main()
